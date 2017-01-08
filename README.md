@@ -5,4 +5,4 @@ This repository contains tips for life.
 
 * [家具](furniture/README.md)
 * [健康](health/README.md)
-
+* [相机](camera/README.md)
