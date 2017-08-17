@@ -30,3 +30,6 @@
     * 这几味药很温和，还健脾胃，很合适婴儿和小孩。
 
   * [新生儿肠绞痛偏方](http://www.qbaobei.com/chengzhang/656424.html)
+
+#### 癌症科普
+* [《36.7℃明星听诊会》- 癌症科普笔记](cancer-notes.md)
