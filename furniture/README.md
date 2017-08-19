@@ -9,3 +9,4 @@
   
 * 参考链接
   * [准备给小孩买套学习桌椅，有推荐的吗](http://www.anjia818.com/thread-153630-1-1.html)
+  * [简单开箱文：小女王的御用书桌 - 大将作G2-S](https://www.chiphell.com/thread-833104-1-1.html)
