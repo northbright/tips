@@ -33,3 +33,6 @@
 
 #### 癌症科普
 * [《36.7℃明星听诊会》- 癌症科普笔记](cancer-notes.md)
+
+## 中医
+* [中医补充热源的方式](heat-supplement-in-chinese-medicine-way.md)
