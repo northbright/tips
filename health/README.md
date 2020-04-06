@@ -36,3 +36,9 @@
 
 ## 中医
 * [中医补充热源的方式](heat-supplement-in-chinese-medicine-way.md)
+
+## 睡眠
+* [连续睡5天好觉，身体很多问题都会解决](good-sleep-of-5-days.md)
+
+## 饮食 
+* [中科院等团队研究证实七分饱可延缓衰老 逆转超过1/2衰老细胞](https://www.sohu.com/a/385608566_100191015)
