@@ -11,3 +11,4 @@ This repository contains tips for life.
 * [日用品](daily-necessities/README.md)
 * [杂项](misc/README.md)
 * [英语](english/README.md)
+* [摄影](photograhpy/README.md)
