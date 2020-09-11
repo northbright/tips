@@ -45,3 +45,6 @@
 
 ## 颈椎
 * [颈椎不适的解决方](neck-vertebrae-problem.md)
+
+## 青草膏
+* [青草膏的选择](choice-of-qingcaogao.md)
