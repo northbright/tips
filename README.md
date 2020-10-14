@@ -12,3 +12,4 @@ This repository contains tips for life.
 * [杂项](misc/README.md)
 * [英语](english/README.md)
 * [相机](camera/README.md)
+* [Apple](apple/README.md)
