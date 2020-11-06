@@ -8,3 +8,6 @@
 
 ## 套餐
 * [办理上海移动8元自由选套](shanghai-mobile-8-yuan-tao-can.md)
+
+## 移动
+* [上海移动积分兑换话费](shanghai-mobile-jifen-to-huafei.md)
