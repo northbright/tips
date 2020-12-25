@@ -48,3 +48,6 @@
 
 ## 青草膏
 * [青草膏的选择](choice-of-qingcaogao.md)
+
+## 幽门螺旋杆菌
+* [幽门螺旋杆菌的饮食疗法](youmenluoxuanganjun-yinshi-zhiliao.md)
