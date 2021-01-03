@@ -11,3 +11,4 @@
 
 ## 移动
 * [上海移动积分兑换话费](shanghai-mobile-jifen-to-huafei.md)
+* [中国移动初始 PIN 码为 1234](initial-pin-of-china-mobile-is-1234.md)
