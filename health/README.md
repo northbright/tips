@@ -57,3 +57,6 @@
 
 ## 牙龈
 * [牙龈问题的解决方法](yayin-problem-solution.md)
+
+## AED
+* [AED 使用方法](aed-usage.md)
