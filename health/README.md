@@ -33,6 +33,7 @@
 
 ## 癌症科普
 * [《36.7℃明星听诊会》- 癌症科普笔记](cancer-notes.md)
+* [想抗癌多吃高纤维食物？肠道细菌可以决定抗癌是否成功](changdao-xijun-kang-ai.md)
 
 ## 中医
 * [中医补充热源的方式](heat-supplement-in-chinese-medicine-way.md)
