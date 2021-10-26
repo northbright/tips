@@ -56,6 +56,7 @@
 
 ## 在线配药寄送到家
 * [中山医院互联网医院微信小程序提供在线门诊配药](zhongshan-hospital-online-service.md)
+* [龙华医院互联网医院](longhua-hospital-online-service.md)
 
 ## 牙龈
 * [牙龈问题的解决方法](yayin-problem-solution.md)
