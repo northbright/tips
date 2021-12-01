@@ -63,3 +63,6 @@
 
 ## AED
 * [AED 使用方法](aed-usage.md)
+
+## 医院
+* [上海市第六人民医院核酸报告查询](liuyuan-hesuan-baogao-chaxun.md)
