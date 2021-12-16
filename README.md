@@ -14,3 +14,4 @@ This repository contains tips for life.
 * [相机](camera/README.md)
 * [Apple](apple/README.md)
 * [书](books/README.md)
+* [购物](buy/README.md)
