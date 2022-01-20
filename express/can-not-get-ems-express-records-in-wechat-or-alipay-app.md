@@ -1,4 +1,4 @@
-# Can Not Get EMS Express Records in Wechat or Alipay App
+# Can Not Get EMS Express Records in Wechat or Alipay Mini-App
 
 ## Problem
 * Use Alipay account or Wechat account login the EMS mini-apps in Alipay / Wechat
