@@ -5,3 +5,6 @@
 
 ## 驾驶技巧
 * [雨天驾驶，后视镜看不清](drive-in-rainy-day.md)
+
+## 驾驶证
+* [获得有驾驶证体检资质的医院信息](get-qualified-hospitals-to-do-physical-examination-for-drive-license.md)
