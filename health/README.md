@@ -70,3 +70,6 @@
 
 ## 医保
 * [健康码作为电子医保卡](jiankangma-zuowei-dianzi-yibaoka.md)
+
+## 胆结石
+* [胆结石吃什么食物好](danjieshi-chi-shenme-shiwu-hao.md)
