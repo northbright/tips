@@ -47,6 +47,7 @@
 * [不吃主食影响寿命](buchi-zhushi-yingxiang-shouming.md)
 * [食用油](oil/README.md)
   * [含有 Omega-3 的食用油](oil/oil-which-contains-omega-3.md)
+* [国人缺少的 6 种营养](guoren-queshao-de-6-zhong-yingyang.md)
 
 ## 颈椎
 * [颈椎不适的解决方](neck-vertebrae-problem.md)
