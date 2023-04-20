@@ -51,6 +51,7 @@
 
 ## 颈椎
 * [颈椎不适的解决方](neck-vertebrae-problem.md)
+* [颈椎最新欢的 5 个动作](颈椎最喜欢的5个动作/颈椎最喜欢的5个动作.mp4)
 
 ## 青草膏
 * [青草膏的选择](choice-of-qingcaogao.md)
