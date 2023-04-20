@@ -4,7 +4,7 @@
 
 ## 第一式：疏肝明目
 
-![第一式：疏肝明目](imgs/mingmugong/01.gif)
+![第一式：疏肝明目](imgs/01.gif)
 
 ## 参考资料
 * [居家抗疫如何护眼？来练健身气功·明目功！](https://mp.weixin.qq.com/s/WWvIHVhHtMQTle6anDpiiA)
