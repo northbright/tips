@@ -63,8 +63,9 @@
 * [中山医院互联网医院微信小程序提供在线门诊配药](zhongshan-hospital-online-service.md)
 * [龙华医院互联网医院](longhua-hospital-online-service.md)
 
-## 牙龈
+## 口腔
 * [牙龈问题的解决方法](yayin-problem-solution.md)
+* [巴氏刷牙法](巴氏刷牙法/README.md)
 
 ## AED
 * [AED 使用方法](aed-usage.md)
