@@ -10,9 +10,7 @@
 * [幽门螺旋杆菌](幽门螺旋杆菌/README.md)
 * [在线配药寄送到家](在线配药寄送到家/README.md)
 * [口腔](口腔/README.md)
-
-## AED
-* [AED 使用方法](aed-usage.md)
+* [AED](AED/README.md)
 
 ## 医院
 * [上海市第六人民医院核酸报告查询](liuyuan-hesuan-baogao-chaxun.md)
