@@ -11,9 +11,7 @@
 * [在线配药寄送到家](在线配药寄送到家/README.md)
 * [口腔](口腔/README.md)
 * [AED](AED/README.md)
-
-## 医院
-* [上海市第六人民医院核酸报告查询](liuyuan-hesuan-baogao-chaxun.md)
+* [医院](医院/README.md)
 
 ## 医保
 * [健康码作为电子医保卡](jiankangma-zuowei-dianzi-yibaoka.md)
