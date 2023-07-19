@@ -4,13 +4,7 @@
 * [癌症](癌症/README.md)
 * [中医](中医/README.md)
 * [睡眠](睡眠/README.md)
-
-## 饮食 
-* [中科院等团队研究证实七分饱可延缓衰老 逆转超过1/2衰老细胞](https://www.sohu.com/a/385608566_100191015)
-* [不吃主食影响寿命](buchi-zhushi-yingxiang-shouming.md)
-* [食用油](oil/README.md)
-  * [含有 Omega-3 的食用油](oil/oil-which-contains-omega-3.md)
-* [国人缺少的 6 种营养](guoren-queshao-de-6-zhong-yingyang.md)
+* [饮食](饮食/README.md)
 
 ## 颈椎
 * [颈椎不适的解决方](neck-vertebrae-problem.md)
