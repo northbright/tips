@@ -2,10 +2,7 @@
 
 * [婴儿](婴儿/README.md)
 * [癌症](癌症/README.md)
-
-## 中医
-* [中医补充热源的方式](heat-supplement-in-chinese-medicine-way.md)
-* [明目功](明目功/README.md)
+* [中医](中医/README.md)
 
 ## 睡眠
 * [连续睡5天好觉，身体很多问题都会解决](good-sleep-of-5-days.md)
