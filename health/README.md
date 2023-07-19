@@ -7,7 +7,7 @@
 * [饮食](饮食/README.md)
 * [颈椎](颈椎/README.md)
 * [青草膏](青草膏/README.md)
-* [幽门螺旋杆菌](幽门螺旋杆菌/README.md)
+* [养胃](养胃/README.md)
 * [在线配药寄送到家](在线配药寄送到家/README.md)
 * [口腔](口腔/README.md)
 * [AED](AED/README.md)
