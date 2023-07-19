@@ -12,9 +12,7 @@
 * [口腔](口腔/README.md)
 * [AED](AED/README.md)
 * [医院](医院/README.md)
-
-## 医保
-* [健康码作为电子医保卡](jiankangma-zuowei-dianzi-yibaoka.md)
+* [医保](医保/README.md)
 
 ## 胆结石
 * [胆结石吃什么食物好](danjieshi-chi-shenme-shiwu-hao.md)
