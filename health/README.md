@@ -6,9 +6,7 @@
 * [睡眠](睡眠/README.md)
 * [饮食](饮食/README.md)
 * [颈椎](颈椎/README.md)
-
-## 青草膏
-* [青草膏的选择](choice-of-qingcaogao.md)
+* [青草膏](青草膏/README.md)
 
 ## 幽门螺旋杆菌
 * [幽门螺旋杆菌的饮食疗法](youmenluoxuanganjun-yinshi-zhiliao.md)
