@@ -5,10 +5,7 @@
 * [中医](中医/README.md)
 * [睡眠](睡眠/README.md)
 * [饮食](饮食/README.md)
-
-## 颈椎
-* [颈椎不适的解决方](neck-vertebrae-problem.md)
-* [颈椎最新欢的 5 个动作](颈椎最喜欢的5个动作/颈椎最喜欢的5个动作.mp4)
+* [颈椎](颈椎/README.md)
 
 ## 青草膏
 * [青草膏的选择](choice-of-qingcaogao.md)
