@@ -9,10 +9,7 @@
 * [青草膏](青草膏/README.md)
 * [幽门螺旋杆菌](幽门螺旋杆菌/README.md)
 * [在线配药寄送到家](在线配药寄送到家/README.md)
-
-## 口腔
-* [牙龈问题的解决方法](yayin-problem-solution.md)
-* [巴氏刷牙法](巴氏刷牙法/README.md)
+* [口腔](口腔/README.md)
 
 ## AED
 * [AED 使用方法](aed-usage.md)
