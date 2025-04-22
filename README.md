@@ -20,3 +20,4 @@ This repository contains tips for life.
 * [教育](education/README.md)
 * [银行](bank/README.md)
 * [生活](life/README.md)
+* [食物](food/README.md)
