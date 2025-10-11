@@ -21,3 +21,4 @@ This repository contains tips for life.
 * [银行](bank/README.md)
 * [生活](life/README.md)
 * [食物](food/README.md)
+* [猫咪](cat/README.md)
