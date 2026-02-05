@@ -16,3 +16,4 @@
 * [医保](医保/README.md)
 * [胆结石](胆结石/README.md)
 * [皮肤](皮肤/README.md)
+* [肾脏](肾脏/README.md)
