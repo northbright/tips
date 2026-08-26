@@ -14,3 +14,4 @@
 * [中国移动初始 PIN 码为 1234](initial-pin-of-china-mobile-is-1234.md)
 * [上海移动全球通尊享特权-国漫礼包](shanghai-mobile-quanqiutong-zunxiang-tequan-guoman-libao.md)
 * [上海移动国际流量包需要手机设置打开数据漫游](shanghai-mobile-guoji-liuliangbao-xuyao-shouji-shezhi-dakai-shuju-manyou.md)
+* [支付宝优惠充值移动话费失败](支付宝优惠充值移动话费失败.md)
