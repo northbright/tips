@@ -25,3 +25,4 @@ This repository contains tips for life.
 * [服务](service/README.md)
 * [综艺节目](show/README.md)
 * [App](app/README.md)
+* [投资](investing/README.md)
