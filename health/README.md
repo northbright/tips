@@ -20,3 +20,4 @@
 * [肺](肺/README.md)
 * [养身](养身/README.md)
 * [膝盖](膝盖/README.md)
+* [锻炼](锻炼/README.md)
