@@ -26,3 +26,4 @@ This repository contains tips for life.
 * [综艺节目](show/README.md)
 * [App](app/README.md)
 * [投资](investing/README.md)
+* [物业](property-management/README.md)
